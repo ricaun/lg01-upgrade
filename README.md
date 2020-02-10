@@ -1,5 +1,5 @@
-# lg01-update
-Dragino LG01 gateway update to 8 channels
+# lg01-upgrade
+Dragino LG01 gateway upgrade to 8 channels
 
 ## Update Firmware
 
