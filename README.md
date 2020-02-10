@@ -1,6 +1,8 @@
 # lg01-upgrade
 Dragino LG01 gateway upgrade to 8 channels
 
+<img src="image/LG01-update.jpg" alt="LG01-update.jpg" width="75%">
+
 ## Update Firmware
 
 First you need to update the firmware: 
